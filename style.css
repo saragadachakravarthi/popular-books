@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.popularbook-mainpage {
+    background-color: #1b1b1b;
+    padding: 1px;
+}
+
+.h1 {
+    color: #ffffff;
+    font-family: bree serif;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.card1 {
+    border-radius: 10px;
+    background-color: #e6f6ff;
+    margin: 20px;
+}
+
+.main-image-props {
+    height: 160px;
+    width: 120px;
+}
+
+.paraheading {
+    color: #183b56;
+    font-family: bree serif;
+    padding-left: 10px;
+}
+
+.para {
+    font-family: bree serif;
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+.para1 {
+    font-size: 8px;
+    padding-left: 11px;
+}
+
+.h11 {
+    font-size: 25px;
+    color: #ffffff;
+    font-family: bree serif;
+    margin: 20px;
+}
+
+.button {
+    margin-left: 15px;
+    margin-bottom: 20px;
+
+}
+
+.basic-image-props {
+    height: 120px;
+    width: 80px;
+}
+
+.para2 {
+    font-family: bree serif;
+    padding-left: 10px;
+    font-size: 10px;
+    color: #ffffff;
+}
+
+.card2 {
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.paraheading-basics {
+    color: #ffffff;
+    font-family: bree serif;
+    padding-left: 10px;
+}
+
+.popularbook-2ndpage {
+    background-color: #1b1b1b;
+    text-align: center;
+}
+
+.page2-image-props {
+    height: 250px;
+    width: 180px;
+    align-self: center;
+    margin: 20px;
+}
+
+.head {
+    color: #ffffff;
+    font-family: bree serif;
+    text-align: center;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    text-align: center;
+    font-family: bree serif;
+}
+
+.paragraph1 {
+    color: #9aa5b1;
+    text-align: center;
+    font-family: bree serif;
+}
+
+.backbutton {
+    background-color: yellow;
+    font-family: roboto;
+    border-width: 0px;
+    padding: 10px;
+    margin: 10px;
+    width: 80px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    height: 40px;
+}
+
+.butt {
+    width: 120px;
+    height: 40px;
+    margin-top: 12px;
+}
+
+.popularbook-3rdpage {
+    background-color: #1b1b1b;
+}
